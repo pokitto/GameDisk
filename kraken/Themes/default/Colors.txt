@@ -1,0 +1,16 @@
+;the order is important
+;all the colors are needed you cant skip one
+#4a5052;BackgroundTop
+#4a5052;BackgroundBottm
+#4a5052;Banner
+#ffffff;Boxes
+#08a18b;BoxBorder
+#000000;Text
+#8b20ac;Text2
+#ffffff;Title
+#ffffff;SelectedText
+#39b1de;Selected
+#5254ff;Botton
+#ffffff;BottonText
+#83ce18;ProgressBar
+#ac0a0a;Error

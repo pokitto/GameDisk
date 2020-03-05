@@ -1,0 +1,72 @@
+﻿******************
+** Bitburnr.snd **
+******************
+
+used in crabator.bin
+
+BitBurner - I'm Busy Saving The World
+
+Music by: BitBurner
+
+Follow him at http://twitter.com/bitburner
+
+Download the track FREE here:
+
+http://thebitburner.com/arcade-music/
+
+Visit BitBurner’s site for more FREE goodies!
+
+http://thebitburner.com
+
+BitBurner’s Music is licensed under the Creative Commons Attribution 4.0 License.
+
+http://thebitburner.com/music-license
+
+http://creativecommons.org/licenses/by/4.0/deed.en_US
+
+******************
+** ozzed.snd    **
+******************
+
+used in pokitris.bin
+
+Songs by Ozzed 
+
+https://ozzed.net/music/
+
+CC-BY-SA 3.0
+
+Introjuice - 	    8-bit Run n' Pun 
+Boink -             Dunes At Night 
+Fingerfeet - 	    Dunes At Night 
+Shingle Tingle -    8-bit Run n' Pun
+Knock Yourself In - 8-bit Empire
+
+******************
+** underclk.snd **
+******************
+
+used in Squiddy.bin
+
+Underclocked (underunderclocked mix) - Eric Skiff - Resistor Anthems
+
+Creative Commons Attribution 4.0 (CC-BY) license. 
+
+Music: Eric Skiff - Song Name - Resistor Anthems - Available at http://EricSkiff.com/music
+
+******************
+** xmas.snd     **
+******************
+
+used in polar.bin game
+
+Songs by Ozzed 
+
+https://ozzed.net/music/
+
+CC-BY-SA 3.0
+
+JingleNES
+12 days of ChristNES
+Labyrinth
+
