@@ -1,0 +1,809 @@
+{
+  ".loader/GameBoy/Bin/mbc0.bin": {
+    "dependencies": []
+  },
+  ".loader/GameBoy/Bin/mbc0s.bin": {
+    "dependencies": []
+  },
+  ".loader/GameBoy/Bin/mbc1.bin": {
+    "dependencies": []
+  },
+  ".loader/GameBoy/Bin/mbc1s.bin": {
+    "dependencies": []
+  },
+  "0Action/101stars.pop": {
+    "dependencies": []
+  },
+  "0Action/B-Bust.pop": {
+    "dependencies": []
+  },
+  "0Action/EspressoShoot.pop": {
+    "dependencies": []
+  },
+  "0Action/JavaDashOfTheDead.pop": {
+    "dependencies": []
+  },
+  "0Action/Millipe.pop": {
+    "dependencies": []
+  },
+  "0Action/NotDeadYet.pop": {
+    "dependencies": []
+  },
+  "0Action/Super Crate Box-Pokitto_v1.0.pop": {
+    "dependencies": []
+  },
+  "0Action/cpong.pop": {
+    "dependencies": []
+  },
+  "0Action/crabator.pop": {
+    "dependencies": [
+      "music/bitburnr.snd"
+    ]
+  },
+  "0Action/flappy.pop": {
+    "dependencies": []
+  },
+  "0Action/gunridrs.pop": {
+    "dependencies": []
+  },
+  "0Action/lander.pop": {
+    "dependencies": []
+  },
+  "0Action/marsatck.pop": {
+    "dependencies": []
+  },
+  "0Action/moon.pop": {
+    "dependencies": []
+  },
+  "0Action/polar.pop": {
+    "dependencies": [
+      "music/xmas.snd"
+    ]
+  },
+  "0Action/pyrates.pop": {
+    "dependencies": []
+  },
+  "0Action/say.pop": {
+    "dependencies": []
+  },
+  "0Action/sky.pop": {
+    "dependencies": []
+  },
+  "1Adventure/Tygro.bin": {
+    "dependencies": []
+  },
+  "1Adventure/coffins.pop": {
+    "dependencies": [
+      "coffins/COFFINS.SND"
+    ]
+  },
+  "1Adventure/lanea.pop": {
+    "dependencies": []
+  },
+  "1Adventure/pixonia.pop": {
+    "dependencies": [
+      "music/pixonia.snd"
+    ]
+  },
+  "1Adventure/planet_escape_0.3.0.pop": {
+    "dependencies": []
+  },
+  "1Adventure/scummpy.pop": {
+    "dependencies": []
+  },
+  "1Adventure/text.pop": {
+    "dependencies": []
+  },
+  "1Adventure/theleak.bin": {
+    "dependencies": []
+  },
+  "2Arcade/1q48.pop": {
+    "dependencies": []
+  },
+  "2Arcade/Arcade.pop": {
+    "dependencies": []
+  },
+  "2Arcade/BigBlue.pop": {
+    "dependencies": []
+  },
+  "2Arcade/Botu.pop": {
+    "dependencies": []
+  },
+  "2Arcade/GalaxyFighters.pop": {
+    "dependencies": [
+      "music/galaxy1.raw",
+      "music/galaxy2.raw",
+      "music/galaxy3.raw",
+      "music/galaxy4.raw",
+      "music/galaxy5.raw",
+      "music/galaxy6.raw",
+      "music/galaxy7.raw",
+      "music/galaxyA.raw"
+    ]
+  },
+  "2Arcade/InvaderWaves.pop": {
+    "dependencies": []
+  },
+  "2Arcade/Kong-II.pop": {
+    "dependencies": [
+      "music/kong2_1.raw",
+      "music/kong2_2.raw",
+      "music/kong2_3.raw"
+    ]
+  },
+  "2Arcade/PiCross.pop": {
+    "dependencies": []
+  },
+  "2Arcade/R0xitto26.pop": {
+    "dependencies": []
+  },
+  "2Arcade/RAYNE2v11.pop": {
+    "dependencies": []
+  },
+  "2Arcade/Zombie_Jumpig_Pokitto.pop": {
+    "dependencies": []
+  },
+  "2Arcade/aqua16.pop": {
+    "dependencies": []
+  },
+  "2Arcade/armagedn.pop": {
+    "dependencies": []
+  },
+  "2Arcade/artiller.pop": {
+    "dependencies": []
+  },
+  "2Arcade/asterock.pop": {
+    "dependencies": []
+  },
+  "2Arcade/bouncing.bin": {
+    "dependencies": []
+  },
+  "2Arcade/digger.pop": {
+    "dependencies": []
+  },
+  "2Arcade/flappybo.bin": {
+    "dependencies": []
+  },
+  "2Arcade/kamerakatze.bin": {
+    "dependencies": []
+  },
+  "2Arcade/linez.pop": {
+    "dependencies": []
+  },
+  "2Arcade/pakman.pop": {
+    "dependencies": []
+  },
+  "2Arcade/pysco84.pop": {
+    "dependencies": []
+  },
+  "2Arcade/pyscodx.pop": {
+    "dependencies": [
+      "music/pysc0.raw",
+      "music/pysc1.raw",
+      "music/pysc2.raw",
+      "music/pysc3.raw",
+      "music/pysc4.raw",
+      "music/pysc5.raw",
+      "music/pysc6.raw",
+      "music/pysc7.raw",
+      "music/pysc8.raw",
+      "music/pyscA.raw",
+      "music/pyscB.raw"
+    ]
+  },
+  "2Arcade/rexitto.pop": {
+    "dependencies": []
+  },
+  "2Arcade/tgg.pop": {
+    "dependencies": []
+  },
+  "2Arcade/topfish.pop": {
+    "dependencies": []
+  },
+  "2Arcade/ufo.pop": {
+    "dependencies": []
+  },
+  "3Platformer/Canabalto.pop": {
+    "dependencies": []
+  },
+  "3Platformer/Celeste_v1.0.pop": {
+    "dependencies": [
+      "Celeste/music/music0.raw",
+      "Celeste/music/music10.raw",
+      "Celeste/music/music20.raw",
+      "Celeste/music/music30.raw",
+      "Celeste/music/music40.raw"
+    ]
+  },
+  "3Platformer/Jetpack_v1.1.pop": {
+    "dependencies": []
+  },
+  "3Platformer/L'Abbaye des morts.pop": {
+    "dependencies": []
+  },
+  "3Platformer/LodeRunner_Pokitto_v1.pop": {
+    "dependencies": []
+  },
+  "3Platformer/PokiEvil4.pop": {
+    "dependencies": []
+  },
+  "3Platformer/SupaPrin.bin": {
+    "dependencies": []
+  },
+  "3Platformer/Upwell.pop": {
+    "dependencies": []
+  },
+  "3Platformer/efmp.pop": {
+    "dependencies": []
+  },
+  "3Platformer/maruino.pop": {
+    "dependencies": []
+  },
+  "3Platformer/matti_v04.pop": {
+    "dependencies": [
+      "danger.raw",
+      "dreamc.raw",
+      "rap2h.raw"
+    ]
+  },
+  "3Platformer/mona.bin": {
+    "dependencies": []
+  },
+  "3Platformer/pretty.pop": {
+    "dependencies": []
+  },
+  "4Puzzle/Basket.bin": {
+    "dependencies": []
+  },
+  "4Puzzle/CutieCritters_v11.pop": {
+    "dependencies": []
+  },
+  "4Puzzle/Dumblin.bin": {
+    "dependencies": []
+  },
+  "4Puzzle/KamerKatze.bin": {
+    "dependencies": []
+  },
+  "4Puzzle/MamboIsMe.pop": {
+    "dependencies": []
+  },
+  "4Puzzle/MrDriller.pop": {
+    "dependencies": []
+  },
+  "4Puzzle/Noggin.pop": {
+    "dependencies": []
+  },
+  "4Puzzle/Pok15.pop": {
+    "dependencies": []
+  },
+  "4Puzzle/Pokaquarium.pop": {
+    "dependencies": []
+  },
+  "4Puzzle/Sensitive.pop": {
+    "dependencies": []
+  },
+  "4Puzzle/YATZY2.pop": {
+    "dependencies": []
+  },
+  "4Puzzle/bbb.bin": {
+    "dependencies": []
+  },
+  "4Puzzle/boblo.pop": {
+    "dependencies": []
+  },
+  "4Puzzle/joebert_wip.pop": {
+    "dependencies": []
+  },
+  "4Puzzle/kooky.pop": {
+    "dependencies": []
+  },
+  "4Puzzle/linez.pop": {
+    "dependencies": []
+  },
+  "4Puzzle/pok2048.pop": {
+    "dependencies": []
+  },
+  "4Puzzle/pokitris.pop": {
+    "dependencies": [
+      "music/ozzed.snd"
+    ]
+  },
+  "4Puzzle/pokittaire.pop": {
+    "dependencies": [
+      "pokittaire/save.dat",
+      "pokittaire/settings.dat"
+    ]
+  },
+  "4Puzzle/raquermete.pop": {
+    "dependencies": []
+  },
+  "4Puzzle/slime.bin": {
+    "dependencies": [
+      "SLIME.DAT"
+    ]
+  },
+  "4Puzzle/squiddy.pop": {
+    "dependencies": [
+      "music/underclk.snd"
+    ]
+  },
+  "4Puzzle/vocfi.pop": {
+    "dependencies": []
+  },
+  "4Puzzle/yatt.pop": {
+    "dependencies": []
+  },
+  "5Racing/PokitGP.pop": {
+    "dependencies": []
+  },
+  "5Racing/uforace.pop": {
+    "dependencies": []
+  },
+  "6Strategy/AwakenJavaofthedeadjam.pop": {
+    "dependencies": []
+  },
+  "6Strategy/nbattle.pop": {
+    "dependencies": []
+  },
+  "6Strategy/tazs-javitto.pop": {
+    "dependencies": []
+  },
+  "7Demos/Intervalometer.bin": {
+    "dependencies": []
+  },
+  "7Demos/Mandel.bin": {
+    "dependencies": []
+  },
+  "7Demos/Physix.bin": {
+    "dependencies": []
+  },
+  "7Demos/Raytrace.bin": {
+    "dependencies": []
+  },
+  "7Demos/Sketchi.bin": {
+    "dependencies": []
+  },
+  "7Demos/bytebeat.bin": {
+    "dependencies": []
+  },
+  "7Demos/chip8.bin": {
+    "dependencies": [
+      "chip8rom/BREAKOUT.ch8",
+      "chip8rom/UserRom.ch8"
+    ]
+  },
+  "7Demos/city_overclock.bin": {
+    "dependencies": []
+  },
+  "7Demos/demo1_overclock.bin": {
+    "dependencies": []
+  },
+  "7Demos/demo2_overclock.bin": {
+    "dependencies": []
+  },
+  "7Demos/demo3_overclock.bin": {
+    "dependencies": []
+  },
+  "7Demos/jetpack.bin": {
+    "dependencies": []
+  },
+  "7Demos/mode13.bin": {
+    "dependencies": []
+  },
+  "7Demos/modelviewer_overclock.bin": {
+    "dependencies": []
+  },
+  "8Utils/Xploritto.pop": {
+    "dependencies": []
+  },
+  "8Utils/lilide.pop": {
+    "dependencies": []
+  },
+  "8Utils/pokipad.pop": {
+    "dependencies": []
+  },
+  "8Utils/sfxed11k.bin": {
+    "dependencies": []
+  },
+  "8Utils/sfxed16k.bin": {
+    "dependencies": []
+  },
+  "8Utils/sfxed22k.bin": {
+    "dependencies": []
+  },
+  "8Utils/sfxed8k.bin": {
+    "dependencies": []
+  },
+  "8Utils/tracker.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/101stars.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/1q48_v0_2.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/2048gb.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/Arcade.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/B-Bust.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/Basket.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/BigBlue.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/Bloids.bin": {
+    "dependencies": [
+      "bloids/gameSong.wav",
+      "bloids/menuSong.wav"
+    ]
+  },
+  "9Old_disk/Celeste.bin": {
+    "dependencies": [
+      "Celeste/music/music0.raw",
+      "Celeste/music/music10.raw",
+      "Celeste/music/music20.raw",
+      "Celeste/music/music30.raw",
+      "Celeste/music/music40.raw"
+    ]
+  },
+  "9Old_disk/CutieCritters.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/Dumblin.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/Glucky.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/InvaderWaves.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/Jetpack_v11.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/LostV4.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/Mandel.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/Millipe.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/MiniPool.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/MrDriller.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/NanDen.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/Noggin.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/PacMan.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/PaperAtt.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/PocketGT.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/Pok15.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/PokitGP.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/Pong 1.2.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/PostBot.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/RAYNE2.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/Racer A 1.2.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/Raytrace.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/Sensitiv.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/Sketchi.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/SupaPrin.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/UPWELL.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/Xploritto.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/Yatzy2.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/YouShallNotPass.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/abbaye.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/abbayelc.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/armagedn.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/artiller.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/asterock.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/bbb.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/bitsy1.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/bitsy2.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/bitsy3.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/boblo.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/bouncing.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/breakout.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/chaoadv1.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/chaoadv2.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/coffins.bin": {
+    "dependencies": [
+      "coffins/COFFINS.SND"
+    ]
+  },
+  "9Old_disk/cpong.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/crabator.bin": {
+    "dependencies": [
+      "music/bitburnr.snd"
+    ]
+  },
+  "9Old_disk/digger.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/flappy.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/flappybo.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/gunridrs.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/helloRay.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/intro.bin": {
+    "dependencies": [
+      "intro44.snd"
+    ]
+  },
+  "9Old_disk/joebert_wip.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/kamerakatze.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/kooky.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/lander.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/lanea.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/level_overclock.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/lilide.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/linez.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/marsatak.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/maruino.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/matti_v04.bin": {
+    "dependencies": [
+      "danger.raw",
+      "dreamc.raw",
+      "rap2h.raw"
+    ]
+  },
+  "9Old_disk/midspace.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/mona.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/moon.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/naval.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/pakman.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/pixonia.bin": {
+    "dependencies": [
+      "music/pixonia.snd"
+    ]
+  },
+  "9Old_disk/planet_escape_0.3.0.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/pok2048.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/pokipad.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/pokisnake.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/pokitair.bin": {
+    "dependencies": [
+      "pokittaire/save.dat",
+      "pokittaire/settings.dat"
+    ]
+  },
+  "9Old_disk/pokitris.bin": {
+    "dependencies": [
+      "music/ozzed.snd"
+    ]
+  },
+  "9Old_disk/polar.bin": {
+    "dependencies": [
+      "music/xmas.snd"
+    ]
+  },
+  "9Old_disk/powers.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/pretty.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/pyrates.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/racer.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/raquer.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/rexitto.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/say.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/scrateb.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/scummpy.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/sensitive.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/sfxed11k.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/sfxed22k.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/sky.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/slime.bin": {
+    "dependencies": [
+      "SLIME.DAT"
+    ]
+  },
+  "9Old_disk/spike.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/squiddy.bin": {
+    "dependencies": [
+      "music/underclk.snd"
+    ]
+  },
+  "9Old_disk/syntest.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/text.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/tgg.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/theleak.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/topfish.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/tracker.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/ufo.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/uforace.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/vocfi.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/yatt.bin": {
+    "dependencies": []
+  },
+  "9Old_disk/yatzy.bin": {
+    "dependencies": []
+  },
+  "Xploritto.pop": {
+    "dependencies": []
+  },
+  "abbaye/enemies.bin": {
+    "dependencies": []
+  },
+  "abbaye/map.bin": {
+    "dependencies": []
+  },
+  "kraken/GameBoy/Bin/mbc0.bin": {
+    "dependencies": []
+  },
+  "kraken/GameBoy/Bin/mbc0s.bin": {
+    "dependencies": []
+  },
+  "kraken/GameBoy/Bin/mbc1.bin": {
+    "dependencies": []
+  },
+  "kraken/GameBoy/Bin/mbc1s.bin": {
+    "dependencies": []
+  }
+}
