@@ -1,0 +1,5 @@
+Importing and Exporting Levels
+
+When you have finished designing your new level in the Space Cabs game, select 'Export Level' from the designer menu.  This will create a level file (suffixed with .raw) in the SPCAB_Export directory.  This file can be copied an distributed to other players.
+
+To import a level from another player, simply copy it into the SPCAB_IMPORT directory.  When you next start Space Cabs, the new file will be detected and imported into the level collection.  Once the process is complete, the import file will be automatically deleted.
